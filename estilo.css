@@ -39,3 +39,17 @@ body{
 	width: 424px;
 	height: 360px;
 }
+
+#conteudo-rodape{
+	width: 1274px;
+	height: auto;
+	float: left;
+	padding: 1px;
+	margin: 5px;
+}
+#video-rodape{
+	width: 400px;
+	height:285px;
+	padding: 1px;
+	margin: 1px;
+}
